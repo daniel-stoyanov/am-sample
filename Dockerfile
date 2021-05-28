@@ -8,4 +8,4 @@ COPY text2.txt text2.txt
 
 COPY text3.txt text3.txt
 
-CMD ["/bin/bash"]
+
